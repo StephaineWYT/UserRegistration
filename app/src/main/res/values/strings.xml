@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registration Page</string>
+    <string name="title">sign up</string>
+    <string name="hintUsername">username</string>
+    <string name="hintPassword">password</string>
+    <string name="hintPhone">phone number</string>
+    <string name="hintGender">gender</string>
+    <string name="rbMale">male</string>
+    <string name="rbFemale">female</string>
+    <string name="btnSignIn">sign in</string>
+    <string name="btnReset">reset</string>
+</resources>
